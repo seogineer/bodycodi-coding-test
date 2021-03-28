@@ -1,0 +1,1 @@
+insert into users (user_name, password) values ('test', 'pa$$word');
